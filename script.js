@@ -1,4 +1,4 @@
-// Váriaveis
+// Váriaveis (Valores de Exemplo)
 let rankWins= rankedMatch(5, 32);
 console.log(rankWins)
 let rankTier = "";
